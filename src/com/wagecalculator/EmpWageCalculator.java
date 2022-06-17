@@ -18,6 +18,7 @@ public class EmpWageCalculator {
         }
         else {
             System.out.println("Employee is absent");
+            totalHours=4;
         }
         totalWage=totalHours*WAGE_PER_HOUR;
         System.out.println("The Total daily wage of Employee is: "+ totalWage);
