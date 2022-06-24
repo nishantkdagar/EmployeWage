@@ -35,7 +35,7 @@ public class EmpWageCalculator {
                 totalPay = totalHour * employeePay;
                 totalEmployeeWage = totalEmployeeWage + totalPay;
                 totalEmployeeHours = totalEmployeeHours + totalHour;
-                System.out.println("The Total earning of a employee: " + totalPay);
+                System.out.println("The Total earning of an employee is: " + totalPay);
             }
 
             System.out.println("Employee total income: " + totalEmployeeWage);
