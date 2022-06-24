@@ -38,8 +38,8 @@ public class EmpWageCalculator {
                 System.out.println("The Total earning of an employee is: " + totalPay);
             }
 
-            System.out.println("Employee total income: " + totalEmployeeWage);
-            System.out.println("Employee total working hours: " + totalEmployeeHours);
+            System.out.println("Employee's total income: " + totalEmployeeWage);
+            System.out.println("Employee's total working hours: " + totalEmployeeHours);
         }
     }
     public static void main(String[] args) {
