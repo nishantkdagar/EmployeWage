@@ -24,7 +24,7 @@ public class EmpWageCalculator {
                         totalHour = 8;
                         break;
                     case IS_PART_TIME:
-                        System.out.println("Employee is present");
+                        System.out.println("Employee took half day");
                         totalHour = 4;
                         break;
                     default:
